@@ -9,5 +9,5 @@ PLAYCODE is fast, simple and beautiful.
 
 ### Desktop client (Unofficial)
 - [Mac OS](https://github.com/Meadowcottage/playcode-desktop/releases)
-- [Windows 10 UWP](https://www.microsoft.com/store/apps/9ns65wvjf3ws)
+- [Windows 10 UWP](https://www.microsoft.com/store/apps/9ns65wvjf3ws) (Currently Unavailable)
 - [Other platforms with source code](https://github.com/Meadowcottage/playcode-desktop)
