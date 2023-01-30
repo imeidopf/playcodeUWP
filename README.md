@@ -1,3 +1,6 @@
+## NOTICE
+This repo is no longer maintained.
+
 ## PLAYCODE
 Quickly and Easily make Frontend Experiments with [Online Javascript Editor](https://playcode.io/online-javascript-editor)
 
